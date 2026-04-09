@@ -1,0 +1,8 @@
+dist/
+build/
+TesseractOCR/
+__pycache__/
+*.pyc
+*.spec
+debug_*.png
+screen_reference.png
